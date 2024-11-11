@@ -10,3 +10,4 @@ El modelo **FinBERT** es una variante de BERT entrenada específicamente para el
 
 En la siguiente fase, se procederá a seleccionar y configurar el modelo que analizará las relaciones entre los discursos y las variables económicas.
 
+Nota: Pensamos llamar al sistema Aggregated Response Evaluation of Policy Announcements (Evaluación de la respuesta agregada a los anuncios de política) o por sus siglas en inglés AREPA.
